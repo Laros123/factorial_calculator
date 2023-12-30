@@ -1,1 +1,1 @@
-# factorial_calculator
+# Factorial Calculator Project
